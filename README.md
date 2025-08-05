@@ -1,2 +1,30 @@
-# Leonify-SpotifyClone-
-A sleek music player built with HTML, CSS, and JavaScript. Featuring local playback, album art, volume control, and a smooth UI inspired by Spotify.  🔥 Features Play/Pause any song  Album cover previews  Auto-play next track  Now playing highlight  Volume slider  🛠 Tech Stack HTML5 + CSS3  JavaScript (Vanilla)  Local assets (no backend)
+# 🎧 Leonify – A Minimal Spotify Clone
+
+A sleek and responsive music player inspired by Spotify.  
+Built with clean HTML, CSS, and JavaScript – no frameworks, no bloat.  
+Just pure front-end vibes.
+
+---
+
+## 🚀 Features
+
+- ✅ Dynamic playlist rendering
+- ✅ Play/pause toggle per song
+- ✅ Album cover thumbnails
+- ✅ Auto-play next track
+- ✅ Volume control slider
+- ✅ Clean, responsive layout
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 (Flexbox layout)
+- Vanilla JavaScript
+- Local assets (no backend required)
+
+---
+
+## 📁 Folder Structure
+
