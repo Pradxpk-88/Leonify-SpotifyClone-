@@ -28,3 +28,16 @@ Just pure front-end vibes.
 
 ## 📁 Folder Structure
 
+spotify-clone/
+├── index.html
+├── style.css
+├── app.js
+├── data/
+│ └── songs.js
+└── assets/
+├── music/
+│ ├── song1.mp3
+│ ├── song2.mp3
+│ └── song3.mp3
+└── images/
+└── cover1.jpg
